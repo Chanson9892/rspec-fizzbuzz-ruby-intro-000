@@ -3,7 +3,7 @@ def fizzbuzz(int)
     "Fizz" # Go fizz
   end
 end
-elsif int % 5 == 0
+if int % 5 == 0
       "Buzz"
   end
 end
